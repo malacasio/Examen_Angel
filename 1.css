@@ -1,0 +1,75 @@
+.marca_cont{
+    margin-left: 10%;
+}
+.menu_nav{
+border-bottom: 2px  blue solid;
+
+
+}
+td{
+    padding-right: 55px;
+    background-color: rgb(188, 255, 255);
+    width: 150px;
+    text-align: center;
+       
+    
+    
+    
+}
+a{
+text-decoration: none;
+color: blue;
+
+
+}
+.blanco{
+padding-left: 320px;
+background-color: white;
+width: 50px;
+}
+.portada_cont{
+margin-left: 20%;
+
+
+}
+.helpdesk_cont{
+    float: right;
+    margin-right: 23%;
+    margin-top: 20px;
+    position: static;
+    
+}
+.helpdesk_img{
+    width: 100px;
+    position: absolute;
+}
+.texto1{
+    color: blue;
+    margin-left: 120px;
+}
+.parrafor2{
+    color: blue;
+    margin-left: 255px;
+    
+}
+.copyright{
+    margin-left: 30%;
+    height: 50px;
+    
+    
+}
+.copyright_cont{
+    background-color: rgb(188, 255, 255);
+    height: 20px;
+}
+.nosotrso{
+    background-color: rgb(188, 255, 255);
+    
+}
+.nosotros:hover{
+    background-color: rgb(90, 101, 253);
+}
+.mapa{
+    width: 400px;
+    height: 300px;
+}
